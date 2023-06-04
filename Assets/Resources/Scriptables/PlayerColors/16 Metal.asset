@@ -12,8 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce8b0cb6c1d54e5428273c6662ede73f, type: 3}
   m_Name: 16 Metal
   m_EditorClassIdentifier: 
-  index: 16
   colors:
-  - player: {fileID: 0}
+  - player: {fileID: 11400000, guid: 8e33573d2c2ae7c4682fc6cdb5ea28cd, type: 2}
     hatColor: {r: 0.6627451, g: 0.6627451, b: 0.6627451, a: 1}
     overallsColor: {r: 0.34901962, g: 0.34901962, b: 0.34901962, a: 1}
+  - player: {fileID: 11400000, guid: 083779ae7bd92ab4295d580d757b328e, type: 2}
+    hatColor: {r: 0.6627451, g: 0.6627451, b: 0.6627451, a: 1}
+    overallsColor: {r: 0.34901962, g: 0.34901962, b: 0.34901962, a: 1}
+  - player: {fileID: 11400000, guid: 3ed6ec33932dcc74f8d124160cc1b3d2, type: 2}
+    hatColor: {r: 0.83137256, g: 0.8039216, b: 0.78039217, a: 1}
+    overallsColor: {r: 0.24705882, g: 0.23529412, b: 0.20784314, a: 1}

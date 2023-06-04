@@ -12,8 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce8b0cb6c1d54e5428273c6662ede73f, type: 3}
   m_Name: 5 Waluigi
   m_EditorClassIdentifier: 
-  index: 5
   colors:
-  - player: {fileID: 0}
+  - player: {fileID: 11400000, guid: 8e33573d2c2ae7c4682fc6cdb5ea28cd, type: 2}
     hatColor: {r: 0.2901961, g: 0.05490196, b: 0.49803922, a: 1}
+    overallsColor: {r: 0.18039216, g: 0.15686275, b: 0.2, a: 1}
+  - player: {fileID: 11400000, guid: 083779ae7bd92ab4295d580d757b328e, type: 2}
+    hatColor: {r: 0.2901961, g: 0.05490196, b: 0.49803922, a: 1}
+    overallsColor: {r: 0.18039216, g: 0.15686275, b: 0.2, a: 1}
+  - player: {fileID: 11400000, guid: 9c669c51f29b323459815e87c6e42466, type: 2}
+    hatColor: {r: 0.50905824, g: 0.12415449, b: 0.8490566, a: 1}
     overallsColor: {r: 0.18039216, g: 0.15686275, b: 0.2, a: 1}

@@ -233,7 +233,7 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 11400000, guid: f63a082ed1de1ac46a4d175774638d5a, type: 2}
   - {fileID: 11400000, guid: 8af1f8b5ba79cd049815d2650240b98c, type: 2}
-  - {fileID: 11400000, guid: b64a87dbaa8184d4b865712efee298f4, type: 2}
+  - {fileID: 11400000, guid: c5fb52f93285f0244a613e6c09b6f411, type: 2}
   - {fileID: 11400000, guid: 49daddea50a684d4a90c97b006f72d5d, type: 2}
   - {fileID: 11400000, guid: 6dac31169dec15444bae7e4839c1d015, type: 2}
   - {fileID: 11400000, guid: 9f9900ffd217e0045bdcd9ea3a2d34aa, type: 2}
@@ -252,6 +252,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 3211edc9ee1951f4780bd104a9fbd597, type: 2}
   - {fileID: 11400000, guid: 245cea6ccab8e0d47a215ef6df104e09, type: 2}
   - {fileID: 11400000, guid: 2ea8c39849fd3704cb659e2d4ef905c3, type: 2}
+  - {fileID: 11400000, guid: e856711907bce9a43b833aec8e2a2e2f, type: 2}
+  - {fileID: 11400000, guid: cd6b0527e54ab4b428cad1169b05ab1a, type: 2}
   rainbowGradient:
     serializedVersion: 2
     key0: {r: 1, g: 0.13913044, b: 0.11304349, a: 1}
@@ -289,6 +291,8 @@ MonoBehaviour:
   characters:
   - {fileID: 11400000, guid: 8e33573d2c2ae7c4682fc6cdb5ea28cd, type: 2}
   - {fileID: 11400000, guid: 083779ae7bd92ab4295d580d757b328e, type: 2}
+  - {fileID: 11400000, guid: 9c669c51f29b323459815e87c6e42466, type: 2}
+  - {fileID: 11400000, guid: 3ed6ec33932dcc74f8d124160cc1b3d2, type: 2}
   settings: {fileID: 0}
   controlsJson: 
   joinedAsSpectator: 0
