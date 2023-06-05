@@ -291,8 +291,14 @@ MonoBehaviour:
   characters:
   - {fileID: 11400000, guid: 8e33573d2c2ae7c4682fc6cdb5ea28cd, type: 2}
   - {fileID: 11400000, guid: 083779ae7bd92ab4295d580d757b328e, type: 2}
+  - {fileID: 11400000, guid: c0aeecc051bbebf4f882e1681482825a, type: 2}
+  - {fileID: 11400000, guid: a1b79e76a710d544d8fd330b04d8c114, type: 2}
   - {fileID: 11400000, guid: 9c669c51f29b323459815e87c6e42466, type: 2}
   - {fileID: 11400000, guid: 3ed6ec33932dcc74f8d124160cc1b3d2, type: 2}
+  - {fileID: 11400000, guid: 46645266697879845bc2bc981d6ca8d3, type: 2}
+  - {fileID: 11400000, guid: 174dc96000bc7fa4a836328819c5188d, type: 2}
+  - {fileID: 11400000, guid: 9102e89c14ffc8a4b919b794faa53529, type: 2}
+  - {fileID: 11400000, guid: d825998560c03ea469c1e9aec5cd9216, type: 2}
   settings: {fileID: 0}
   controlsJson: 
   joinedAsSpectator: 0
