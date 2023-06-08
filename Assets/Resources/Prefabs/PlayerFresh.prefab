@@ -10496,7 +10496,7 @@ MonoBehaviour:
   propellerHelmet: {fileID: 919132149155446097, guid: 165babb21afc2ba47bfbc27cb6af3182,
     type: 3}
   propeller: {fileID: 8626919663303982960}
-  glowMaterial: {fileID: 2100000, guid: 2cfa80f93994da44c9bdacad018e6ff5, type: 2}
+  glowMaterial: {fileID: 0}
   primaryColor: {r: 0, g: 0, b: 0, a: 0}
   secondaryColor: {r: 0, g: 0, b: 0, a: 0}
   blinkDuration: 0.1
