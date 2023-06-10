@@ -801,15 +801,17 @@ MonoBehaviour:
       m_Image: {fileID: 0}
     - m_Text: H0l0
       m_Image: {fileID: 0}
+    - m_Text: Lyla
+      m_Image: {fileID: 0}
     - m_Text: Pink
-      m_Image: {fileID: 0}
-    - m_Text: Sixty
-      m_Image: {fileID: 0}
-    - m_Text: Gamer
       m_Image: {fileID: 0}
     - m_Text: Simeon
       m_Image: {fileID: 0}
-    - m_Text: Lyla
+    - m_Text: Sixty
+      m_Image: {fileID: 0}
+    - m_Text: Bitten
+      m_Image: {fileID: 0}
+    - m_Text: Gamer
       m_Image: {fileID: 0}
   m_OnValueChanged:
     m_PersistentCalls:
