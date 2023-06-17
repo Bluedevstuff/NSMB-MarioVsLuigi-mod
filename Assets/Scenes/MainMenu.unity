@@ -809,11 +809,21 @@ MonoBehaviour:
       m_Image: {fileID: 0}
     - m_Text: Sixty
       m_Image: {fileID: 0}
+    - m_Text: Moneybags
+      m_Image: {fileID: 0}
     - m_Text: Bitten
       m_Image: {fileID: 0}
     - m_Text: Gamer
       m_Image: {fileID: 0}
+    - m_Text: Roderick
+      m_Image: {fileID: 0}
+    - m_Text: 
+      m_Image: {fileID: 0}
     - m_Text: Sonic
+      m_Image: {fileID: 0}
+    - m_Text: 
+      m_Image: {fileID: 0}
+    - m_Text: Fresh (Brian)
       m_Image: {fileID: 0}
   m_OnValueChanged:
     m_PersistentCalls:
@@ -13394,7 +13404,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30.65
+  m_fontSize: 32.35
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -46783,8 +46793,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 47220571}
   m_HandleRect: {fileID: 47220570}
   m_Direction: 2
-  m_Value: 1
-  m_Size: 0.65345645
+  m_Value: 0.9999998
+  m_Size: 0.68119586
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
