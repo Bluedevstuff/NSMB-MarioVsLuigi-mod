@@ -817,6 +817,8 @@ MonoBehaviour:
       m_Image: {fileID: 0}
     - m_Text: Roderick
       m_Image: {fileID: 0}
+    - m_Text: Helena
+      m_Image: {fileID: 0}
     - m_Text: 
       m_Image: {fileID: 0}
     - m_Text: Sonic
@@ -13404,7 +13406,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 32.35
+  m_fontSize: 41.1
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -46793,8 +46795,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 47220571}
   m_HandleRect: {fileID: 47220570}
   m_Direction: 2
-  m_Value: 0.9999998
-  m_Size: 0.68119586
+  m_Value: 1.0000004
+  m_Size: 0.8252237
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -89206,7 +89208,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0.8, y: 1}
-  m_AnchoredPosition: {x: 5.0000076, y: 0.5}
+  m_AnchoredPosition: {x: 5, y: 0.5}
   m_SizeDelta: {x: -10, y: -9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1820958460
