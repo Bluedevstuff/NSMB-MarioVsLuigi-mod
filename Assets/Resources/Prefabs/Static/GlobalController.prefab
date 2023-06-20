@@ -315,6 +315,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e0d721714394bbd40a299aacf58baef1, type: 2}
   - {fileID: 11400000, guid: 8e33573d2c2ae7c4682fc6cdb5ea28cd, type: 2}
   - {fileID: 11400000, guid: a9b2b72e14861164d81a692077ffae64, type: 2}
+  - {fileID: 11400000, guid: 0fe33c81d501aca4fa6888b61c258762, type: 2}
   settings: {fileID: 0}
   controlsJson: 
   joinedAsSpectator: 0
